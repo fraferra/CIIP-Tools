@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 CIIP4ME Documentation
 ----------------------
 
@@ -192,11 +193,6 @@ Below there is a short 'map' of the templates and what contents they contain.
  
 
 * /ciip/templates/ciip/edit_work_internship.html --  https://www.ciip4me.com/ciip/edit_work_internship . Edit internships and work experience info
-
-
-
-
-
 
 
 
